@@ -24,4 +24,4 @@ Welcome to the "Machine Learning Algorithms Implementations" repository! This re
 
 ## Who Is This Repository For?
 
-This repository is primarily for [Your Name], who maintains it. It serves as a personal learning journey to gain a profound understanding of machine learning algorithms through hands-on implementation.
+This repository is primarily for me, who maintains it. It serves as a personal learning journey to gain a profound understanding of machine learning algorithms through hands-on implementation.
